@@ -81,18 +81,24 @@ Ideally, each tray would be fed once at the start of it's lifespan, enough for t
 
 
 ### Multiple feedings
-Each tray starts out with two scoops of spent grains. A scoop of food waste if added placed in the centre of the grains. The grains provide a dryer substrate and seem quite effective in discouraging maggots from escaping. An additional scoop of food waste is added to the tray every Monday, Wednesday and Friday or when the maggots are dry. With certain types of food wastes (such as biscuits), the substrate tends to dry quickly and cake up. Watering and mixing might need to be done on an ad hoc basis. Each new tray ia labelled as such: Line-traydate-s/n. For example a trays of maggots from line D, trayed on 10 Sep 2020 will be labelled as 'D-10092020-01', 'D-10092020-02' and so on. Additional markers might be placed on the tray if we want to track particular nurseries. The trays are then placed on their respective racks.
+Each tray starts out with two scoops of spent grains. A scoop of food waste if added placed in the centre of the grains. The grains provide a dryer substrate and seem quite effective in discouraging maggots from escaping. Each new tray is labelled as such: Line-traydate-s/n. For example a trays of maggots from line D, trayed on 10 Sep 2020 will be labelled as 'D-10092020-01', 'D-10092020-02' and so on. Additional markers might be placed on the tray if we want to track particular nurseries. The trays are then placed on their respective racks.
 
-
-# Caging (Dark and light)
+For existing trays, an additional scoop of food waste is added to the tray every Monday, Wednesday and Friday or when the maggots are dry. With certain types of food wastes (such as biscuits), the substrate tends to dry quickly and cake up. Watering and mixing might need to be done on an ad hoc basis if you notice caking. The trays continue to receive food until ~40% of the larvae have prepupated. 
 
 
 # Harvesting
+## Small scale harvesting
+If your experiment is on a smaller scale (yellow trays), you may consider letting the larvae self harvest. Prepuae migrate from wetter areas in search of dry substrate to pupate in. This can be done by placing a yellow tray in a bigger blue tray and adding a wooden ramp on the short side of the tray. The self harvesting method will not get all the prepupae out but it may be sufficient for  your needs.
+
+
+## Larger scale harvesting
+For the operations of the BSF facility, self harvest is too slow to be used. Instead, we use the large mechanical sieve. The model we have can fit up to three layers of sieves. We have a number of sieves of different sizes that can be swapped depending on your needs. 
+
 Currently (Sep 2020), we are still rebuilding our populations after the circuit breaker. If it reaches a point where we have more than enough adult flies, some trays can be harvested earlier for other purposes.
 
 
 
-
+# Caging (Dark and light)
 
 
 
