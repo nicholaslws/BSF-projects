@@ -98,12 +98,18 @@ After sieving, the weight of the frass and larvae of each tray have to be quanti
 Currently (Sep 2020), we are still rebuilding our populations after the circuit breaker. If it reaches a point where we have more than enough adult flies, some trays can be harvested earlier for other purposes.
 
 # Obtaining eggs
-## Cages
+## Large cages
 ### Dark
 Once the trays are placed in the cages, the cages are placed in the dark room to build up a larger population of flies. Once a large population of flies is established in a cage, it is brought out into the into and placed along the row of windows. 
 
 ### Light
-Once the cage is by the windows, a small tray of sugar water with sponges can placed in the cage for the flies. Two days after being brought into the light, a bait box with egg traps is added into the cage. The bait box is made using chicken feed and frass from sieving. It should be made more watery as it is expected to last for at least 2 weeks. 
+Once the cage is by the windows, a small tray of sugar water with sponges can placed in the cage for the flies. This can be topped up twice a week. Two days after being brought into the light, a bait box with an egg trap is added into the cage. The bait box is made using chicken feed and frass from sieving. It should be made more watery as it is expected to last for at least 2 weeks. These cages are lit by natural sunlight. 
+
+## XXL and beyond
+If the row beside the window is fully used, we have a a number of XXL cages set up around the facility and a giant cage in the small office. The XXL cages and giant cage in the rooms are lit using artificial lighting. These are supposed to be optimised based on the visible spectrum of the BSFs. Please wear eye protection before going into the rooms if the lights are on. The egg production with these cages have not been as good as the large cages, perhaps as due to a lower density but more testing should be done ¯\\\_(ツ)\_/¯. 
+
+![Fig 2. Wavelength of LEDs in the rooms](images/LEDs.png)
+
 
 ## Egg traps
 We have implemented the use of 2 different setup of egg traps: 3-4 layers of wooden planks spaced out by a small piece of wood for each layer, as well as cut out strips of discarded cardboard bundled in 3-4 pieces. The weights of the empty traps will be prerecorded. 
