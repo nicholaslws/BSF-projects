@@ -1,0 +1,16 @@
+---
+title: "BSF SOP"
+author: "Nicholas"
+output:
+  html_notebook:
+    theme: lumen
+    toc: yes
+    toc_float: yes
+  html_document:
+    df_print: paged
+    toc: yes
+editor_options: 
+  chunk_output_type: inline
+---
+
+test
