@@ -1,11 +1,13 @@
 ---
 title: "BSF SOP"
 author: "Nicholas"
+date: "`r format(Sys.Date())`"
 output:
   html_document: 
     keep_md: yes
     toc: yes
     toc_float: yes
+    
 ---
 
 # Admin stuff
