@@ -10,6 +10,9 @@ output:
     keep_md: yes
     toc: true
     toc_float: true
+  md_document:
+    variant: markdown_github
+  
 ---
 # Admin 
 Hello, welcome to the SOP for the BSF project for evolab & reprolab.  WiP. Read paper in General Literature -> Mass rearing. Begin with the manual

@@ -1,101 +1,262 @@
----
-title: "BSF SOP"
-author: "BSF team"
-date: "10 September, 2020"
-output:
-  html_document: 
-    keep_md: yes
-    toc: true
-    toc_float: true
----
+Admin
+=====
 
-# Admin 
-Hello, welcome to the SOP for the BSF project for evolab & reprolab.  WiP. Read paper in General Literature -> Mass rearing. Begin with the manual
+Hello, welcome to the SOP for the BSF project for evolab & reprolab.
+WiP. Read paper in General Literature -\> Mass rearing. Begin with the
+manual
 
-# Food waste
-## Food waste sources
-For this project, one of the goals is to recycle the foodwaste around the campus. We have targetted the residential halls and colleges that provide meal plans as they seem to form the bulk of the food waste produced. There are currently nine halls (ten pending) and colleges that we collect food waste from. These are:
+Food waste
+==========
 
-  + Eusoff Hall
-  + Kent Ridge Hall
-  + King Edward VII (KEVII) Hall
-  + Raffles Hall
-  + Sheares Hall
-  + Temasek Hall
-  + Cinnamon & Tembusu Colleges
-  + College of Alice and Peter Tan (CAPT) & Residential College 4 (RC4)
-  + Ridge View Residential College
-  + Yale-NUS (pending)
+Food waste sources
+------------------
 
-The meal plans in these halls and colleges are operated by a number of different caterers. Do check at the start of the academic year if there has been any changes in the caterer. If so, contact the dining servies manager or the catering company's manager to arrange collection of the food waste.
+For this project, one of the goals is to recycle the foodwaste around
+the campus. We have targetted the residential halls and colleges that
+provide meal plans as they seem to form the bulk of the food waste
+produced. There are currently nine halls and colleges that we collect
+food waste from. These are:
 
+-   Eusoff Hall
+-   Kent Ridge Hall
+-   King Edward VII (KEVII) Hall
+-   Raffles Hall
+-   Sheares Hall
+-   Temasek Hall
+-   Cinnamon & Tembusu Colleges
+-   College of Alice and Peter Tan (CAPT) & Residential College 4 (RC4)
+-   Ridge View Residential College
 
-## Food waste collection
+The meal plans in these halls and colleges are operated by a number of
+different caterers. Do check at the start of the academic year if there
+has been any changes in the caterer. If so, contact the dining servies
+manager or the catering company’s manager to arrange collection of the
+food waste.
+
+Food waste collection
+---------------------
+
 ### Food waste amount
-We will collect leftover dining hall food from participating Residential Colleges and Halls. Buffet-style meals are served twice daily, in the morning and evening, after which, the leftover food that remains in the serving tray is normally discarded. Instead of depositing the leftover food in the trash, the dining hall staff will put the leftover food into our wheeled 80L collection bins for our collection each day.The Office of Sustainability suggests that all of the RC dining halls have similar food service operations (buffet-style) and food amounts as RVRC (~40kg/day of leftovers including both breakfast and dinner). Assuming that we can srouce food from all nine halls and colleges, we will likely be able to source ~350-400kg/day.
+
+We will collect leftover dining hall food from participating Residential
+Colleges and Halls. Buffet-style meals are served twice daily, in the
+morning and evening, after which, the leftover food that remains in the
+serving tray is normally discarded. Instead of depositing the leftover
+food in the trash, the dining hall staff will put the leftover food into
+our wheeled 80L collection bins for our collection each day.The Office
+of Sustainability suggests that all of the RC dining halls have similar
+food service operations (buffet-style) and food amounts as RVRC
+(\~40kg/day of leftovers including both breakfast and dinner). Assuming
+that we can source food from all nine halls and colleges, we will likely
+be able to source \~350-400kg/day.
 
 ### Food waste collection arrangements
-We would collect food Monday - Friday. Each collection will include the previous night’s dinner as well as that morning’s breakfast at the same time, sometime between 10:30 - 11:30am each weekday morning at a designated pickup/dropoff. As such, dining staff would not collect Friday dinner, but would collect Sunday dinner for collection with Monday’s breakfast. At the time of collection, we will drop off two empty bins for the next collection.
 
+We would collect food Monday - Friday. Each collection will include the
+previous night’s dinner as well as that morning’s breakfast at the same
+time, sometime between 10:30 - 11:30am each weekday morning at a
+designated pickup/dropoff ususally located near to the bin center of the
+halls. As such, dining staff would not collect Friday dinner, but would
+collect Sunday dinner for collection with Monday’s breakfast. At the
+time of collection, we will drop off two empty bins for the next
+collection.
 
-Because there are no refrigerators at the dining halls, we would provide the dining halls with two, 2-wheeled 80-L bins in which to place the buffet leftovers after each meal (one bin each for dinner and breakfast). We eventually came to an agreement with the operators that as long as the bins are covered and kept away from the kitchen area, a standard, non-sealing wheelie bin should be fine.
+Because there are no refrigerators at the dining halls, we would provide
+the dining halls with two, 2-wheeled 80-L bins in which to place the
+buffet leftovers after each meal (one bin each for dinner and
+breakfast). We eventually came to an agreement with the operators that
+as long as the bins are covered and kept away from the kitchen area, a
+standard, non-sealing wheelie bin should be fine.
 
+![Fig 1. Food waste collection route.](images/FW_route.png)
 
-Insert food waste collection route map
+Food waste processing
+---------------------
 
+On returning from food collection, bins containing food waste are
+unloaded from the lorry bed manually. They are then wheeled to the main
+area and weighed. The food waste is then fed into the grinder or
+handheld mixer depending on the amount of food waste collected. If the
+food waste is too dry, water might have to be added. If the food waste
+is too wet, dry substrate such as bread or biscuits will be added to
+reduce the wetness of the food. These additional steps helps to
+homogenises the quality of food waste and the optimal moisture content
+for the larval consumption.
 
-## Food waste processing
-On returning from food collection, bins containing food waste are unloaded from the lorry bed manually. They are then wheeled to the main area and weighed. 
-The food wasts is then fed into the grinder or handheld mixer depending on the amount of food waste collected. If the food waste is too dry, water might have to be added. This homogenises the quality of food waste. 
+Nursery
+=======
 
+2-3 day old eggs are collected the mating cages. The egg traps are then
+weighed to determine the amount of eggs on it. Nurseries should be set
+up immediately in case of early hatching. Currently, nurseries are made
+using chicken feed sourced from Lian Wah Hang Quail Poultry Farm.
+Generally, \~100g of dry chicken feed is added to 1g of BSF eggs at 60%
+moisture.A max of 5g of eggs in used in each nursery as the chicken feed
+layer will get too thick.
 
-# Nursery
-2-3 day old eggs are collected the mating cages. The egg traps are then weighed to determine the amount  of eggs on it. Nurseries should be set up immediately in case of early hatching. Currently, nurseries are made using chicken feed sourced from Lian Wah Hang Quail Poultry Farm. Generally, ~100g of dry chicken feed is added to 1g of BSF eggs at 60% moisture.A max of 5g of eggs in used in each nursery as the chicken feed layer will get too thick. 
+| Mass of eggs (g) | Dry chicken feed (g) | Water (g) | Container size |
+|------------------|----------------------|-----------|----------------|
+| \<1              | 100                  | 150       | Small          |
+| 1-2              | 100-200              | 150-300   | Medium         |
+| 2-3              | 200-300              | 300-450   | Large          |
+| 3-4              | 300-400              | 450-600   | Large          |
+| 4-5              | 400-500              | 600-750   | Large          |
 
+Once the chicken feed has been mixed with water, we let it sit for an
+hour. The chicken feed will absorb the water and cake up. Thoroughly mix
+the moistened chicken feed and add a layer of dry coco peat. Ensure the
+egg traps remain dry by placing them on top of the coco peat.
+Alternatively, an elevated platform crafted using flexible mesh can be
+used to support the egg traps. The nurseries are then covered with a
+paper towel which is secured by a cut-out cover to prevent phorids. They
+are placed in individual small cages before being put into the large
+cage according to their line. The nurseries are left there for one to
+two weeks before being trayed. Midway through, it is good to mix and
+aerate the nurseries to prevent any caking of the chicken feed.
 
-Mass of eggs (g) | Dry chicken feed (g) | Water (g) | Container size
------------------|----------------------|-----------|-----------
-<1 | 100 | 150 | Small
-1-2 | 100-200 | 150-300 | Medium
-2-3 | 200-300 | 300-450 | Large
-3-4 | 300-400 | 450-600 | Large
-4-5 | 400-500 | 600-750 | Large
+Using chicken feed ($3/kg) nurseries will add on quite a substantial
+amount to our expenses. Food waste nurseries are probably more
+financially sustainable but it might lead to losses from escapees. We
+have tried food waste nurseries before but did not quantify losses.
+Nurseries comprised of a food waste + chicken feed (or okara) mix have
+shown to be effective, and could minimize escapes by being slightly
+drier. This will require further investigation to determine a suitable
+nursery mix.
 
+Traying and feeding
+===================
 
-Once the chicken feed has been mixed with water, we let it sit for an hour. The chicken feed will absorb the water and cake up. Thoroughly mix the moistened chicken feed and add a layer of dry coco peat. Ensure the egg traps remain dry by placing them on top of the coco peat. Alternatively, a thin plastic card can be used to support the egg traps. The nurseries are then covered with a paper towel which is secured by a cut-out cover to prevent phorids. They are placed in individual small cages before being put into the large cage according to their line. The nurseries are left there for one to two weeks before being trayed. Midway through, it is good to mix and aerate the nurseries. 
+Nursery quantification and traying
+----------------------------------
 
+Once the nursery is ready (dry), we will remove as much substrate as
+possible from each nursery (ie dried clumps with no larvae). This is
+done by sieving the mixture through an appropriate small sieve *(?-?
+mm)*. The remaining larvae tends to clump together in panic and more
+substrate can be removed by skimming off the top substrate. The larvae
+and remaining substrate will be homogenized. The number of larvae is
+estimated by counting the number in a small sample (3 x 1.5g), which is
+then extrapolated based on the total weight of the nursery. The larvae
+are then distributed into batches of approximately 10,000, which will be
+added to each blue tray with food waste.
 
-Using chicken feed ($3/kg) nurseries will add on quite a substantial amount to our expenses. Food waste nurseries are probably more financially sustainable but it might lead to losses from escapees. We have tried food waste nurseries before but did not quantify losses. Nurseries comprised of a food waste + chicken feed (or okara) mix have shown to be effective, and could minimize escapes by being slightly drier. This will require further investigation to determine a suitable nursery mix.
+### Single feeding
 
+Ideally, each tray would be fed once at the start of it’s lifespan,
+enough for the maggots to reach maturity. We have done some preliminary
+trials and a ratio of 3-5kg : 10,000 maggots in a blue tray seem to do
+quite well. However, due to concerns with odours and escapees, we have
+changed to mutliple feedings.
 
-# Traying and feeding
-## Traying
+### Multiple feedings
 
+Each tray starts out with two scoops of spent grains. A scoop of food
+waste if added placed in the centre of the grains. The grains provide a
+dryer substrate and seem quite effective in discouraging maggots from
+escaping. Each new tray is labelled as such: Line-traydate-s/n. For
+example a trays of maggots from line D, trayed on 10 Sep 2020 will be
+labelled as ‘D-10092020-01’, ‘D-10092020-02’ and so on. Additional
+markers might be placed on the tray if we want to track particular
+nurseries. The trays are then placed on their respective racks.
 
-## Single feeding
-Ideally, each tray would be fed once at the start of it's lifespan, enough for the maggots to reach maturity. We have done some preliminary trials and a ratio of 3-5kg : 10,000 maggots in a blue tray seem to do quite well. However, due to concerns with odours and escapees, we have changed to mutliple feedings.
+For existing trays, an additional scoop of food waste is added to the
+tray every Monday, Wednesday and Friday or when the maggots are dry.
+With certain types of food wastes (such as biscuits), the substrate
+tends to dry quickly and cake up. Watering and mixing might need to be
+done on an ad hoc basis if you notice caking. The trays continue to
+receive food until \~40% of the larvae have prepupated.
 
+Harvesting
+==========
 
-## Multiple feedings
-Each tray starts out with two scoops of spent grains. A scoop of food waste if added placed in the centre of the grains. The grains provide a dryer substrate and seem quite effective in discouraging maggots from escaping. An additional scoop of food waste is added to the tray every Monday, Wednesday and Friday or when the maggots are dry. With certain types of food wastes (such as biscuits), the substrate tends to dry quickly and cake up. Watering and mixing might need to be done on an ad hoc basis. 
+Small scale harvesting
+----------------------
 
+If your experiment is on a smaller scale (yellow trays), you may
+consider letting the larvae self harvest. Prepuae migrate from wetter
+areas in search of dry substrate to pupate in. This can be done by
+placing a yellow tray in a bigger blue tray and adding a wooden ramp on
+the short side of the tray. The self harvesting method will not get all
+the prepupae out but it may be sufficient for your needs.
 
+Larger scale harvesting
+-----------------------
 
+For the operations of the BSF facility, self harvest is too slow to be
+used. Instead, we use the large mechanical sieve. The model we have can
+fit up to three layers of sieves. We have a number of sieves of
+different sizes that can be swapped depending on your needs. The 4?5?mm
+screen is most often used.
 
+When ready, turn the sieve on and pour the tray in the center of the
+screen. We usually do two passes through the sieve. Clean the screens
+and the bottom to ensure that the maggots of different lines do not mix.
+Run the siever for a short while to get the stragglers out before moving
+on to the next tray. If you notice loud noises while sieving, the nuts
+might need to be further tightened. Tightening (or loosening) can be
+done quickly by using a drill with an adaptor for nuts.
 
+After sieving, the weight of the frass and larvae of each tray have to
+be quantified. An additional measurement of prepupae percentage is
+taking a few samples of larvae. The frass goes into the designated frass
+bins for composting and stored for botany or other gardening interest
+groups. The larvae are added into a large cage and placed in the dark
+room. Each cage is to have between one to two trays worth of maggots.
+Remember to label the cage so that we are able to track the amount of
+eggs from each cage.
 
-# Caging (Dark and light)
+Currently (Sep 2020), we are still rebuilding our populations after the
+circuit breaker. If it reaches a point where we have more than enough
+adult flies, some trays can be harvested earlier for other purposes.
 
+Obtaining eggs
+==============
 
-# Harvesting
-Currently (Sep 2020), we are still rebuilding our populations after the circuit breaker. If it reaches a point where we have more than enough adult flies, some trays can be harvested earlier for other purposes.
+Large cages
+-----------
 
+### Dark
 
+Once the trays are placed in the cages, the cages are placed in the dark
+room to build up a larger population of flies. Once a large population
+of flies is established in a cage, it is brought out into the into and
+placed along the row of windows.
 
+### Light
 
-# Egg traps
-## how to make
+Once the cage is by the windows, a small tray of sugar water with
+sponges can placed in the cage for the flies. This can be topped up
+twice a week. Two days after being brought into the light, a bait box
+with an egg trap is added into the cage. The bait box is made using
+chicken feed and frass from sieving. It should be made more watery as it
+is expected to last for at least 2 weeks. These cages are lit by natural
+sunlight.
 
-# Data recording
-In each of the above steps, there are things to be recorded in the MS Teams 'BSF Facility data records' sheet. Please refer to the readme tab in the document to familiarise yourself with it.  
+XXL and beyond
+--------------
 
+If the row beside the window is fully used, we have a a number of XXL
+cages set up around the facility and a giant cage in the small office.
+The XXL cages and giant cage in the rooms are lit using artificial
+lighting. These are supposed to be optimised based on the visible
+spectrum of the BSFs. Please wear eye protection before going into the
+rooms if the lights are on. The egg production with these cages have not
+been as good as the large cages, perhaps as due to a lower density but
+more testing should be done ¯\\\_(ツ)\_/¯.
+
+![Fig 2. Wavelength of LEDs in the rooms](images/LEDs.png)
+
+Egg traps
+---------
+
+We have implemented the use of 2 different setup of egg traps: 3-4
+layers of wooden planks spaced out by a small piece of wood for each
+layer, as well as cut out strips of discarded cardboard bundled in 3-4
+pieces. The weights of the empty traps will be prerecorded.
+
+Data recording
+==============
+
+In each of the above steps, there are things to be recorded in the MS
+Teams ‘BSF Facility data records’ sheet. Please refer to the readme
+sheet in the document to familiarise yourself with it.
