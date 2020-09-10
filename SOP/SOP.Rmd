@@ -9,6 +9,7 @@ output:
   html_document:
     df_print: paged
     toc: yes
+  output: github_document
 editor_options: 
   chunk_output_type: inline
 ---
