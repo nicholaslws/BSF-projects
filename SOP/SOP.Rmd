@@ -80,14 +80,7 @@ Ideally, each tray would be fed once at the start of it's lifespan, enough for t
 ### Multiple feedings
 Each tray starts out with two scoops of spent grains. A scoop of food waste if added placed in the centre of the grains. The grains provide a dryer substrate and seem quite effective in discouraging maggots from escaping. Each new tray is labelled as such: Line-traydate-s/n. For example a trays of maggots from line D, trayed on 10 Sep 2020 will be labelled as 'D-10092020-01', 'D-10092020-02' and so on. Additional markers might be placed on the tray if we want to track particular nurseries. The trays are then placed on their respective racks.
 
-<<<<<<< HEAD
 For existing trays, an additional scoop of food waste is added to the tray every Monday, Wednesday and Friday or when the maggots are dry. With certain types of food wastes (such as biscuits), the substrate tends to dry quickly and cake up. Watering and mixing might need to be done on an ad hoc basis if you notice caking. The trays continue to receive food until ~40% of the larvae have prepupated. 
-
-
-
-
-# Caging (Dark and light)
-
 
 
 # Harvesting
@@ -96,19 +89,24 @@ If your experiment is on a smaller scale (yellow trays), you may consider lettin
 
 
 ## Larger scale harvesting
-For the operations of the BSF facility, self harvest is too slow to be used. Instead, we use the large mechanical sieve. The model we have can fit up to three layers of sieves. We have a number of sieves of different sizes that can be swapped depending on your needs. 
+For the operations of the BSF facility, self harvest is too slow to be used. Instead, we use the large mechanical sieve. The model we have can fit up to three layers of sieves. We have a number of sieves of different sizes that can be swapped depending on your needs. The 4?5?mm screen is most often used. 
+
+When ready, turn the sieve on and pour the tray in the center of the screen. We usually do two passes through the sieve. Clean the screens and the bottom to ensure that the maggots of different lines do not mix. Run the siever for a short while to get the stragglers out before moving on to the next tray. If you notice loud noises while sieving, the nuts might need to be further tightened. Tightening (or loosening) can be done quickly by using a drill with an adaptor for nuts. 
+
+After sieving, the weight of the frass and larvae of each tray have to be quantified. An additional measurement of prepupae percentage is taking a few samples of larvae. The frass goes into the designated frass bins for composting and stored for botany or other gardening interest groups. The larvae are added into a large cage and placed in the dark room. Each cage is to have between one to two trays worth of maggots. Remember to label the cage so that we are able to track the amount of eggs from each cage.
 
 Currently (Sep 2020), we are still rebuilding our populations after the circuit breaker. If it reaches a point where we have more than enough adult flies, some trays can be harvested earlier for other purposes.
 
+# Obtaining eggs
+## Cages
+### Dark
+Once the trays are placed in the cages, the cages are placed in the dark room to build up a larger population of flies. Once a large population of flies is established in a cage, it is brought out into the into and placed along the row of windows. 
 
+### Light
+Once the cage is by the windows, a small tray of sugar water with sponges can placed in the cage for the flies. Two days after being brought into the light, a bait box with egg traps is added into the cage. The bait box is made using chicken feed and frass from sieving. It should be made more watery as it is expected to last for at least 2 weeks. 
 
-# Caging (Dark and light)
-
-
-
-# Egg traps
-## How to make
+## Egg traps
 We have implemented the use of 2 different setup of egg traps: 3-4 layers of wooden planks spaced out by a small piece of wood for each layer, as well as cut out strips of discarded cardboard bundled in 3-4 pieces. The weights of the empty traps will be prerecorded. 
 
 # Data recording
-In each of the above steps, there are things to be recorded in the MS Teams 'BSF Facility data records' sheet. Please refer to the readme tab in the document to familiarise yourself with it.
+In each of the above steps, there are things to be recorded in the MS Teams 'BSF Facility data records' sheet. Please refer to the readme sheet in the document to familiarise yourself with it.
