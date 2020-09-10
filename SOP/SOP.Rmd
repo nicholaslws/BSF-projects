@@ -44,7 +44,7 @@ We would collect food Monday - Friday. Each collection will include the previous
 Because there are no refrigerators at the dining halls, we would provide the dining halls with two, 2-wheeled 80-L bins in which to place the buffet leftovers after each meal (one bin each for dinner and breakfast). We eventually came to an agreement with the operators that as long as the bins are covered and kept away from the kitchen area, a standard, non-sealing wheelie bin should be fine.
 
 
-Insert food waste collection route map
+![Fig 1. Food waste collection route.](images/FW_route.png)
 
 
 ## Food waste processing
@@ -73,16 +73,15 @@ Using chicken feed ($3/kg) nurseries will add on quite a substantial amount to o
 
 # Traying and feeding
 ## Nursery quantification and traying
+Once the nursery is ready (dry), we will remove as much substrate as possible from each nursery (ie dried clumps with no larvae). This is done by sieving the mixture through an appropriate small sieve *(?-? mm)*. The remaining larvae tends to clump together in panic and more substrate can be removed by skimming off the top substrate. The larvae and remaining substrate will be homogenized. The number of larvae is estimated by counting the number in a small sample (3 x 1.5g), which is then extrapolated based on the total weight of the nursery. The larvae are then distributed into batches of approximately 10,000, which will be added to each blue tray with food waste. 
 
 
-
-## Single feeding
+### Single feeding
 Ideally, each tray would be fed once at the start of it's lifespan, enough for the maggots to reach maturity. We have done some preliminary trials and a ratio of 3-5kg : 10,000 maggots in a blue tray seem to do quite well. However, due to concerns with odours and escapees, we have changed to mutliple feedings.
 
 
-## Multiple feedings
-Each tray starts out with two scoops of spent grains. A scoop of food waste if added placed in the centre of the grains. The grains provide a dryer substrate and seem quite effective in discouraging maggots from escaping. An additional scoop of food waste is added to the tray every Monday, Wednesday and Friday or when the maggots are dry. With certain types of food wastes (such as biscuits), the substrate tends to dry quickly and cake up. Watering and mixing might need to be done on an ad hoc basis. 
-
+### Multiple feedings
+Each tray starts out with two scoops of spent grains. A scoop of food waste if added placed in the centre of the grains. The grains provide a dryer substrate and seem quite effective in discouraging maggots from escaping. An additional scoop of food waste is added to the tray every Monday, Wednesday and Friday or when the maggots are dry. With certain types of food wastes (such as biscuits), the substrate tends to dry quickly and cake up. Watering and mixing might need to be done on an ad hoc basis. Each new tray ia labelled as such: Line-traydate-s/n. For example a trays of maggots from line D, trayed on 10 Sep 2020 will be labelled as 'D-10092020-01', 'D-10092020-02' and so on. Additional markers might be placed on the tray if we want to track particular nurseries. The trays are then placed on their respective racks.
 
 
 # Caging (Dark and light)
@@ -90,6 +89,9 @@ Each tray starts out with two scoops of spent grains. A scoop of food waste if a
 
 # Harvesting
 Currently (Sep 2020), we are still rebuilding our populations after the circuit breaker. If it reaches a point where we have more than enough adult flies, some trays can be harvested earlier for other purposes.
+
+
+
 
 
 
