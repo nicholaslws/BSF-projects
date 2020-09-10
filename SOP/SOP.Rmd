@@ -11,20 +11,6 @@ output:
     toc: true
     toc_float: true
 ---
-
-# Admin 
-Hello, welcome to the SOP for the BSF project for evolab & reprolab.  WiP. Read paper in General Literature -> Mass rearing. Begin with the manual
----
-title: "BSF SOP"
-author: "BSF team"
-date: "10 September, 2020"
-output:
-  html_document: 
-    keep_md: yes
-    toc: true
-    toc_float: true
----
-
 # Admin 
 Hello, welcome to the SOP for the BSF project for evolab & reprolab.  WiP. Read paper in General Literature -> Mass rearing. Begin with the manual
 
