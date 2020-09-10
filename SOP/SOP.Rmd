@@ -1,7 +1,7 @@
 ---
 title: "BSF SOP"
 author: "Nicholas"
-date: "`r format(Sys.Date())`"
+date: "`r format(Sys.Date(), '%d %B, %Y')`"
 output:
   html_document: 
     keep_md: yes
