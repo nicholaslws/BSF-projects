@@ -78,8 +78,7 @@ breakfast). We eventually came to an agreement with the operators that
 as long as the bins are covered and kept away from the kitchen area, a
 standard, non-sealing wheelie bin should be fine.
 
-![Fig 1. Food waste collection
-route.](https://github.com/nicholaslws/BSF-projects/blob/master/SOP/images/FW_route.PNG)
+![Fig 1. Food waste collection route.](images/FW_route.PNG)
 
 Food waste processing
 ---------------------
