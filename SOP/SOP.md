@@ -1,9 +1,16 @@
-Admin
-=====
+Welcome to the BSF Facility
+===========================
 
-Hello, welcome to the SOP for the BSF project for evolab & reprolab.
-WiP. Read paper in General Literature -\> Mass rearing. Begin with the
-manual
+Hello, welcome to the SOP for the BSF project for Evolab & Reprolab.
+Read the Reprolab’s onboarding document and get yourself added to the
+lab’s MS Teams.
+
+We would recommend heading over to the Mass rearing folder in General
+Literature and reading the BSF manuals there. That should give you a
+good overview of the BSF rearing process.
+
+Lab equipment
+-------------
 
 We have a number of equipment in the BSF facility that may be used.
 These include:
@@ -11,9 +18,32 @@ These include:
 -   Food grinder
 -   Mechanical sieve and smaller hand sieves
 -   Feeding trays
--   Cages of different sizes
+-   Cages of different sizes (XL:60x60x180cm , L: 60x60x90cm, M:
+    30x30x60cm, S: 30x30x30cm)\*
 -   Racks, fixed and wheeled
 -   Lights
+-   Freezers
+-   Balance (up to 0.001g)
+
+\* We also have five XXL cages and a giant cage set up around the
+facility for large number of flies.
+
+Please read the relevant RAs before using them. Wash the equipment if
+needed after using it.
+
+### BSF cultures
+
+Currently, we have five selection lines of BSF, labelled A to E. We are
+in the process of establishing more lines especially local flies.
+
+Data recording
+--------------
+
+In each of the below steps, there are things to be recorded in the MS
+Teams ‘BSF Facility data records’ sheet. Please refer to the readme
+sheet in the document to familiarise yourself with it.
+
+------------------------------------------------------------------------
 
 Food waste
 ==========
@@ -93,15 +123,19 @@ reduce the wetness of the food. These additional steps helps to
 homogenises the quality of food waste and the optimal moisture content
 for the larval consumption.
 
+------------------------------------------------------------------------
+
 Nursery
 =======
 
-2-3 day old eggs are collected the mating cages. The egg traps are then
-weighed to determine the amount of eggs on it. Nurseries should be set
-up immediately in case of early hatching. Currently, nurseries are made
-using chicken feed sourced from Lian Wah Hang Quail Poultry Farm.
-Generally, \~100g of dry chicken feed is added to 1g of BSF eggs at 60%
-moisture.A max of 5g of eggs in used in each nursery as the chicken feed
+Egg traps are replaced every Monday, Wednesday and Thursday. The eggs
+are collected from the mating cages should be between 2-3 days old. The
+egg traps are then weighed to determine the weight of eggs on it.
+Nurseries should be set up immediately in case of early hatching.
+Currently, nurseries are made using chicken feed sourced from Lian Wah
+Hang Quail Poultry Farm. Generally, \~100g of dry chicken feed is added
+to 1g of BSF eggs at 60% moisture, rounded to the closest 0.1g of eggs.
+A maximujm of 5g of eggs in used in each nursery as the chicken feed
 layer will get too thick.
 
 | Mass of eggs (g) | Dry chicken feed (g) | Water (g) | Container size |
@@ -133,6 +167,8 @@ shown to be effective, and could minimize escapes by being slightly
 drier. This will require further investigation to determine a suitable
 nursery mix.
 
+------------------------------------------------------------------------
+
 Traying and feeding
 ===================
 
@@ -150,7 +186,8 @@ then extrapolated based on the total weight of the nursery. The larvae
 are then distributed into batches of approximately 10,000, which will be
 added to each blue tray with food waste.
 
-### Single feeding
+Feeding
+-------
 
 Ideally, each tray would be fed once at the start of it’s lifespan,
 enough for the maggots to reach maturity. We have done some preliminary
@@ -158,11 +195,9 @@ trials and a ratio of 3-5kg : 10,000 maggots in a blue tray seem to do
 quite well. However, due to concerns with odours and escapees, we have
 changed to mutliple feedings.
 
-### Multiple feedings
-
 Each tray starts out with two scoops of spent grains. A scoop of food
-waste if added placed in the centre of the grains. The grains provide a
-dryer substrate and seem quite effective in discouraging maggots from
+waste is placed in the centre of the grains. The grains provide a dryer
+substrate and seem quite effective in discouraging maggots from
 escaping. Each new tray is labelled as such: Line-traydate-s/n. For
 example a trays of maggots from line D, trayed on 10 Sep 2020 will be
 labelled as ‘D-10092020-01’, ‘D-10092020-02’ and so on. Additional
@@ -175,6 +210,8 @@ With certain types of food wastes (such as biscuits), the substrate
 tends to dry quickly and cake up. Watering and mixing might need to be
 done on an ad hoc basis if you notice caking. The trays continue to
 receive food until \~40% of the larvae have prepupated.
+
+------------------------------------------------------------------------
 
 Harvesting
 ==========
@@ -207,19 +244,21 @@ might need to be further tightened. Tightening (or loosening) can be
 done quickly by using a drill with an adaptor for nuts.
 
 After sieving, the weight of the frass and larvae of each tray have to
-be quantified. An additional measurement of prepupae percentage is
-taking a few samples of larvae. The frass goes into the designated frass
-bins for composting and stored for botany or other gardening interest
-groups. The larvae are added into a large cage and placed in the dark
-room. Each cage is to have between one to two trays worth of maggots.
-Remember to label the cage so that we are able to track the amount of
-eggs from each cage.
+be quantified. An additional measurement of prepupae percentage is taken
+by counting a few samples of larvae. The frass goes into the designated
+frass bins for composting and stored for botany or other gardening
+interest groups. The larvae are added into a large cage and placed in
+the dark room. Each cage is to have between one to two trays worth of
+maggots. Remember to label the cage so that we are able to track the
+amount of eggs from each cage.
 
 ![Fig 2. BSF frass](images/Frass.jpeg)
 
 Currently (Sep 2020), we are still rebuilding our populations after the
-circuit breaker. If it reaches a point where we have more than enough
+circuit breaker. When it reaches a point where we have more than enough
 adult flies, some trays can be harvested earlier for other purposes.
+
+------------------------------------------------------------------------
 
 Obtaining eggs
 ==============
@@ -244,7 +283,7 @@ chicken feed and frass from sieving. It should be made more watery as it
 is expected to last for at least 2 weeks. These cages are lit by natural
 sunlight.
 
-![Fig 4. BSF bait boxes with traps](images/trap.png)
+![Fig 3. BSF bait boxes with traps](images/trap.png)
 
 XXL and beyond
 --------------
@@ -258,19 +297,29 @@ rooms if the lights are on. The egg production with these cages have not
 been as good as the large cages, perhaps as due to a lower density but
 more testing should be done ¯\\\_(ツ)\_/¯.
 
-![Fig 3. Wavelength of LEDs in the rooms](images/LEDs.png)
+![Fig 4. Wavelength of LEDs in the rooms](images/LEDs.png)
 
 Egg traps
 ---------
 
-We have implemented the use of 2 different setup of egg traps: 3-4
-layers of wooden planks spaced out by a small piece of wood for each
-layer, as well as cut out strips of discarded cardboard bundled in 3-4
-pieces. The weights of the empty traps will be prerecorded.
+We have implemented the use of 2 different types of egg traps: wooden
+traps and cardboard traps. Label cage the trap is from so that we can
+track the performance of the cages. Traps are replaced every Monday,
+Wednesday and Friday until the cage is decommissioned when most of the
+flies have died.
 
-Data recording
-==============
+### Wooden trap
 
-In each of the above steps, there are things to be recorded in the MS
-Teams ‘BSF Facility data records’ sheet. Please refer to the readme
-sheet in the document to familiarise yourself with it.
+Wooden traps are made by bundling four layers of wood, separated by thin
+wooden spacers. More traps can be made by cutting wooden planks to size
+with the saw. Using wooden traps, eggs can be gently scraped out using a
+penknife to obtain the egg weight. Scrap along the wooden grain to
+minimise damage to eggs.
+
+### Cardbaord traps.
+
+Cardboard traps are made by bundling 3-4 layers of cardboard. Each trap
+is appoximately 7.5x1.5cm. After the trap has been secured with a rubber
+band, weigh the trap and write it on the cardboard. The weight of eggs
+on the trap can be obtained by subtracting the final weight from the
+initial weight of the trap.
