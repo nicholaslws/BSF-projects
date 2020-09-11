@@ -5,6 +5,16 @@ Hello, welcome to the SOP for the BSF project for evolab & reprolab.
 WiP. Read paper in General Literature -\> Mass rearing. Begin with the
 manual
 
+We have a number of equipment in the BSF facility that may be used.
+These include:
+
+-   Food grinder
+-   Mechanical sieve and smaller hand sieves
+-   Feeding trays
+-   Cages of different sizes
+-   Racks, fixed and wheeled
+-   Lights
+
 Food waste
 ==========
 
@@ -68,7 +78,7 @@ breakfast). We eventually came to an agreement with the operators that
 as long as the bins are covered and kept away from the kitchen area, a
 standard, non-sealing wheelie bin should be fine.
 
-![Fig 1. Food waste collection route.](https://github.com/nicholaslws/BSF-projects/blob/master/SOP/images/FW_route.PNG)
+![Fig 1. Food waste collection route.](images/FW_route.png)
 
 Food waste processing
 ---------------------
@@ -205,6 +215,8 @@ room. Each cage is to have between one to two trays worth of maggots.
 Remember to label the cage so that we are able to track the amount of
 eggs from each cage.
 
+![Fig 2. BSF frass](images/Frass.jpeg)
+
 Currently (Sep 2020), we are still rebuilding our populations after the
 circuit breaker. If it reaches a point where we have more than enough
 adult flies, some trays can be harvested earlier for other purposes.
@@ -232,6 +244,8 @@ chicken feed and frass from sieving. It should be made more watery as it
 is expected to last for at least 2 weeks. These cages are lit by natural
 sunlight.
 
+![Fig 4. BSF bait boxes with traps](images/trap.png)
+
 XXL and beyond
 --------------
 
@@ -244,7 +258,7 @@ rooms if the lights are on. The egg production with these cages have not
 been as good as the large cages, perhaps as due to a lower density but
 more testing should be done ¯\\\_(ツ)\_/¯.
 
-![Fig 2. Wavelength of LEDs in the rooms](images/LEDs.png)
+![Fig 3. Wavelength of LEDs in the rooms](images/LEDs.png)
 
 Egg traps
 ---------

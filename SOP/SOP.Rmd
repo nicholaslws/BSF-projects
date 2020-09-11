@@ -3,19 +3,30 @@ title: "BSF SOP"
 author: "BSF team"
 date: "`r format(Sys.Date(), '%d %B, %Y')`"
 output:
-  html_notebook:
-    toc: true
-    toc_float: true
+  
+  md_document:
+    variant: markdown_github
   html_document: 
     keep_md: yes
     toc: true
     toc_float: true
-  md_document:
-    variant: markdown_github
-  
+  html_notebook:
+    toc: true
+    toc_float: true
 ---
 # Admin 
 Hello, welcome to the SOP for the BSF project for evolab & reprolab.  WiP. Read paper in General Literature -> Mass rearing. Begin with the manual
+
+
+We have a number of equipment in the BSF facility that may be used. These include:
+
+  + Food grinder
+  + Mechanical sieve and smaller hand sieves
+  + Feeding trays
+  + Cages of different sizes
+  + Racks, fixed and wheeled
+  + Lights
+
 
 # Food waste
 ## Food waste sources
@@ -98,6 +109,8 @@ When ready, turn the sieve on and pour the tray in the center of the screen. We 
 
 After sieving, the weight of the frass and larvae of each tray have to be quantified. An additional measurement of prepupae percentage is taking a few samples of larvae. The frass goes into the designated frass bins for composting and stored for botany or other gardening interest groups. The larvae are added into a large cage and placed in the dark room. Each cage is to have between one to two trays worth of maggots. Remember to label the cage so that we are able to track the amount of eggs from each cage.
 
+![Fig 2. BSF frass](images/Frass.jpeg)
+
 Currently (Sep 2020), we are still rebuilding our populations after the circuit breaker. If it reaches a point where we have more than enough adult flies, some trays can be harvested earlier for other purposes.
 
 # Obtaining eggs
@@ -108,10 +121,12 @@ Once the trays are placed in the cages, the cages are placed in the dark room to
 ### Light
 Once the cage is by the windows, a small tray of sugar water with sponges can placed in the cage for the flies. This can be topped up twice a week. Two days after being brought into the light, a bait box with an egg trap is added into the cage. The bait box is made using chicken feed and frass from sieving. It should be made more watery as it is expected to last for at least 2 weeks. These cages are lit by natural sunlight. 
 
+![Fig 4. BSF bait boxes with traps](images/trap.png)
+
 ## XXL and beyond
 If the row beside the window is fully used, we have a a number of XXL cages set up around the facility and a giant cage in the small office. The XXL cages and giant cage in the rooms are lit using artificial lighting. These are supposed to be optimised based on the visible spectrum of the BSFs. Please wear eye protection before going into the rooms if the lights are on. The egg production with these cages have not been as good as the large cages, perhaps as due to a lower density but more testing should be done ¯\\\_(ツ)\_/¯. 
 
-![Fig 2. Wavelength of LEDs in the rooms](images/LEDs.png)
+![Fig 3. Wavelength of LEDs in the rooms](images/LEDs.png)
 
 
 ## Egg traps
