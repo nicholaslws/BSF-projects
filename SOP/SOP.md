@@ -109,7 +109,8 @@ breakfast). We eventually came to an agreement with the operators that
 as long as the bins are covered and kept away from the kitchen area, a
 standard, non-sealing wheelie bin should be fine.
 
-![Fig 1. Food waste collection route.](images/FW_route.PNG)
+![Fig 1. Food waste collection
+route.](images/FW_route.PNG){:height=“50%” width=“50%”}
 
 Food waste processing
 ---------------------
@@ -261,7 +262,7 @@ cage) and placed in the dark room. Each cage is to have between one to
 two trays worth of maggots. Remember to label the cage so that we are
 able to track the amount of eggs from each cage.
 
-![Fig 2. BSF frass](images/Frass.jpeg)
+![Fig 2. BSF frass](images/Frass.jpeg){:height=“50%” width=“50%”}
 
 Currently (Sep 2020), we are still rebuilding our populations after the
 circuit breaker. When it reaches a point where we have more than enough
@@ -292,7 +293,8 @@ chicken feed and frass from sieving. It should be made more watery as it
 is expected to last for at least 2 weeks. These cages are lit by natural
 sunlight.
 
-![Fig 3. BSF bait boxes with traps](images/trap.png)
+![Fig 3. BSF bait boxes with traps](images/trap.png){:height=“50%”
+width=“50%”}
 
 XXL and beyond
 --------------
@@ -306,7 +308,8 @@ rooms if the lights are on. The egg production with these cages have not
 been as good as the large cages, perhaps as due to a lower density but
 more testing should be done ¯\\\_(ツ)\_/¯.
 
-![Fig 4. Wavelength of LEDs in the rooms](images/LEDs.png)
+![Fig 4. Wavelength of LEDs in the rooms](images/LEDs.png){:height=“50%”
+width=“50%”}
 
 Egg traps
 ---------
@@ -325,7 +328,8 @@ with the saw. Using wooden traps, eggs can be gently scraped out using a
 penknife to obtain the egg weight. Scrap along the wooden grain to
 minimise damage to eggs.
 
-![Fig 5. Example of a wooden trap](images/wooden%20trap.jpg)
+![Fig 5. Example of a wooden
+trap](images/wooden%20trap.jpg){:height=“50%” width=“50%”}
 
 ### Cardbaord traps.
 
@@ -335,4 +339,5 @@ band, weigh the trap and write it on the cardboard. The weight of eggs
 on the trap can be obtained by subtracting the final weight from the
 initial weight of the trap.
 
-![Fig 6. Example of a wooden trap](images/cardboard%20trap.jpg)
+![Fig 6. Example of a wooden
+trap](images/cardboard%20trap.jpg){:height=“50%” width=“50%”}
