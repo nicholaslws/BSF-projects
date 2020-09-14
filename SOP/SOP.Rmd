@@ -3,16 +3,16 @@ title: "BSF SOP"
 author: "BSF team"
 date: "`r format(Sys.Date(), '%d %B, %Y')`"
 output:
-  
+  html_notebook:
+    toc: true
+    toc_float: true
   md_document:
     variant: markdown_github
   html_document: 
     keep_md: yes
     toc: true
     toc_float: true
-  html_notebook:
-    toc: true
-    toc_float: true
+
 ---
 
 # Welcome to the BSF Facility
