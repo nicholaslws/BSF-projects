@@ -73,7 +73,7 @@ We would collect food Monday - Friday. Each collection will include the previous
 Because there are no refrigerators at the dining halls, we would provide the dining halls with two, 2-wheeled 80-L bins in which to place the buffet leftovers after each meal (one bin each for dinner and breakfast). We eventually came to an agreement with the operators that as long as the bins are covered and kept away from the kitchen area, a standard, non-sealing wheelie bin should be fine.
 
 
-![Fig 1. Food waste collection route.](images/FW_route.PNG){:height="50%" width="50%"}
+![Fig 1. Food waste collection route.](images/FW_route.PNG){width=70%}
 
 
 ## Food waste processing
@@ -126,7 +126,7 @@ When ready, turn the sieve on and pour the tray in the center of the screen. Fin
 
 After sieving, the weight of the frass and larvae of each tray have to be quantified. An additional measurement of prepupae percentage is taken by counting a few samples of larvae. The frass goes into the designated frass bins for composting and stored for botany or other gardening interest groups. The larvae are added into a large cage (~20,000 per cage) and placed in the dark room. Each cage is to have between one to two trays worth of maggots. Remember to label the cage so that we are able to track the amount of eggs from each cage.
 
-![Fig 2. BSF frass](images/Frass.jpeg){:height="50%" width="50%"}
+![Fig 2. BSF frass](images/Frass.jpeg){width=50%}
 
 Currently (Sep 2020), we are still rebuilding our populations after the circuit breaker. When it reaches a point where we have more than enough adult flies, some trays can be harvested earlier for other purposes.
 
@@ -140,13 +140,13 @@ Once the trays are placed in the cages, the cages are placed in the dark room to
 ### Light
 Once the cage is by the windows, a small tray of sugar water with sponges can placed in the cage for the flies. This can be topped up twice a week. Two days after being brought into the light, a bait box with an egg trap is added into the cage. The bait box is made using chicken feed and frass from sieving. It should be made more watery as it is expected to last for at least 2 weeks. These cages are lit by natural sunlight. 
 
-![Fig 3. BSF bait boxes with traps](images/trap.png){:height="50%" width="50%"}
+![Fig 3. BSF bait boxes with traps](images/trap.png){width=50%}
 
 
 ## XXL and beyond
 If the row beside the window is fully used, we have a a number of XXL cages set up around the facility and a giant cage in the small office. The XXL cages and giant cage in the rooms are lit using artificial lighting. These are supposed to be optimised based on the visible spectrum of the BSFs. Please wear eye protection before going into the rooms if the lights are on. The egg production with these cages have not been as good as the large cages, perhaps as due to a lower density but more testing should be done ¯\\\_(ツ)\_/¯. 
 
-![Fig 4. Wavelength of LEDs in the rooms](images/LEDs.png){:height="50%" width="50%"}
+![Fig 4. Wavelength of LEDs in the rooms](images/LEDs.png){width=60%}
 
 
 ## Egg traps
@@ -155,9 +155,9 @@ We have implemented the use of 2 different types of egg traps: wooden traps and 
 ### Wooden trap
 Wooden traps are made by bundling four layers of wood, separated by thin wooden spacers. More traps can be made by cutting wooden planks to size with the saw. Using wooden traps, eggs can be gently scraped out using a penknife to obtain the egg weight. Scrap along the wooden grain to minimise damage to eggs.
 
-![Fig 5. Example of a wooden trap](images/wooden trap.jpg){:height="50%" width="50%"}
+![Fig 5. Example of a wooden trap](images/wooden trap.jpg){width=50%}
 
 ### Cardbaord traps.
 Cardboard traps are made  by bundling 3-4 layers of cardboard. Each trap is approximately 15x1.5cm. After the trap has been secured with a rubber band, weigh the trap and write it on the cardboard. The weight of eggs on the trap can be obtained by subtracting the final weight from the initial weight of the trap. 
 
-![Fig 6. Example of a wooden trap](images/cardboard trap.jpg){:height="50%" width="50%"}
+![Fig 6. Example of a cardboard trap](images/cardboard trap.jpg){width=50%}
