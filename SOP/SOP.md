@@ -297,7 +297,7 @@ is expected to last for at least 2 weeks. These cages are lit by natural
 sunlight.
 
 <figure>
-<img src="images/trap.png" style="width:50.0%" alt="" /><figcaption>Fig 3. BSF bait boxes with traps</figcaption>
+<img src="images/trap.png" style="width:30.0%" alt="" /><figcaption>Fig 3. BSF bait boxes with traps</figcaption>
 </figure>
 
 XXL and beyond
@@ -334,7 +334,7 @@ penknife to obtain the egg weight. Scrap along the wooden grain to
 minimise damage to eggs.
 
 <figure>
-<img src="images/wooden%20trap.jpg" style="width:50.0%" alt="" /><figcaption>Fig 5. Example of a wooden trap</figcaption>
+<img src="images/wooden%20trap.jpg" style="width:30.0%" alt="" /><figcaption>Fig 5. Example of a wooden trap</figcaption>
 </figure>
 
 ### Cardbaord traps.
@@ -346,5 +346,5 @@ on the trap can be obtained by subtracting the final weight from the
 initial weight of the trap.
 
 <figure>
-<img src="images/cardboard%20trap.jpg" style="width:50.0%" alt="" /><figcaption>Fig 6. Example of a cardboard trap</figcaption>
+<img src="images/cardboard%20trap.jpg" style="width:30.0%" alt="" /><figcaption>Fig 6. Example of a cardboard trap</figcaption>
 </figure>

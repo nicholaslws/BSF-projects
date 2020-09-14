@@ -140,7 +140,7 @@ Once the trays are placed in the cages, the cages are placed in the dark room to
 ### Light
 Once the cage is by the windows, a small tray of sugar water with sponges can placed in the cage for the flies. This can be topped up twice a week. Two days after being brought into the light, a bait box with an egg trap is added into the cage. The bait box is made using chicken feed and frass from sieving. It should be made more watery as it is expected to last for at least 2 weeks. These cages are lit by natural sunlight. 
 
-![Fig 3. BSF bait boxes with traps](images/trap.png){width=50%}
+![Fig 3. BSF bait boxes with traps](images/trap.png){width=30%}
 
 
 ## XXL and beyond
@@ -155,9 +155,9 @@ We have implemented the use of 2 different types of egg traps: wooden traps and 
 ### Wooden trap
 Wooden traps are made by bundling four layers of wood, separated by thin wooden spacers. More traps can be made by cutting wooden planks to size with the saw. Using wooden traps, eggs can be gently scraped out using a penknife to obtain the egg weight. Scrap along the wooden grain to minimise damage to eggs.
 
-![Fig 5. Example of a wooden trap](images/wooden trap.jpg){width=50%}
+![Fig 5. Example of a wooden trap](images/wooden trap.jpg){width=30%}
 
 ### Cardbaord traps.
 Cardboard traps are made  by bundling 3-4 layers of cardboard. Each trap is approximately 15x1.5cm. After the trap has been secured with a rubber band, weigh the trap and write it on the cardboard. The weight of eggs on the trap can be obtained by subtracting the final weight from the initial weight of the trap. 
 
-![Fig 6. Example of a cardboard trap](images/cardboard trap.jpg){width=50%}
+![Fig 6. Example of a cardboard trap](images/cardboard trap.jpg){width=30%}
