@@ -52,11 +52,11 @@ plot_b+geom_line()+geom_text(aes(label=line_cage_code),hjust=0, vjust=0)
 
 #C plot
 plot_c<-ggplot(df_c, aes(x=Light_time, y=egg_mass, group=line_cage_code, fill=line_cage_code))
-plot_c+geom_point()+geom_text(aes(label=line_cage_code),hjust=0, vjust=0)
+plot_c+geom_line()+geom_text(aes(label=line_cage_code),hjust=0, vjust=0)
 
 #D plot
 plot_d<-ggplot(df_d, aes(x=Light_time, y=egg_mass, group=line_cage_code, fill=line_cage_code))
-plot_d+geom_point()+geom_text(aes(label=line_cage_code),hjust=0, vjust=0)
+plot_d+geom_line()+geom_text(aes(label=line_cage_code),hjust=0, vjust=0)
 
 #Plot E
 plot_e<-ggplot(df_e, aes(x=Light_time, y=egg_mass, group=line_cage_code, fill=line_cage_code))
