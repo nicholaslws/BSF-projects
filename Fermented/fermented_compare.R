@@ -3,7 +3,7 @@ library(readxl)
 here()
 
 #Feed in data
-feed_tal<-read_excel(here( "R projects", "BSF-projects","Fermented", "BSF Facility Data Records.xlsx"), sheet="Feed Tally", skip=1)
+feed_tal<-read_excel(here("Fermented", "BSF Facility Data Records.xlsx"), sheet="Feed Tally", skip=1)
 
 #Removing unneeded columns (7-26, 33-41)
 feed_tal<-feed_tal[, -c(7:26, 33:41)]
@@ -43,4 +43,10 @@ harvest_comb<-bind_rows(harvest_dec,harvest_oct)
 library(stringr)
 harvest_comb$line<-substr(harvest_comb$tray_ID, 1,1)
 
+#t test lol
+t.test(fcr~Month, data=harvest_comb)
+t.test(frasscon~Month, data=harvest_comb)
+summary(harvest_comb)
+
+#ggplotslol
 
