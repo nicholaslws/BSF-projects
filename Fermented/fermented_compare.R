@@ -51,4 +51,9 @@ summary(harvest_comb)
 #ggplotslol
 #install.packages("ggplot2")
 library(ggplot2)
-#test
+
+
+#histograms for fcr, frasscon?
+range(harvest_comb$fcr)
+range(harvest_comb$frasscon)
+
