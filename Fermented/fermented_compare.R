@@ -88,3 +88,15 @@ plotbsf+
 #t test lol
 t.test(fcr~Month, data=harvest_comb)
 t.test(frasscon~Month, data=harvest_comb)
+
+summary(lm(fcr~line+Month+ppp, data =harvest_comb))
+
+#How about tray age?
+harvest_comb$tray_date<-as.numeric(harvest_comb$tray_date)
+harvest_comb$harvest_date<-as.numeric(harvest_comb$harvest_date)
+harvest_comb$age<-harvest_comb$harvest_date - harvest_comb$tray_date
+summary(harvest_comb)
+
+#scatter plot for age
+plotbsf+
+  geom_point(aes(x=harvest_comb$age, y=fcr, colour=Month))
