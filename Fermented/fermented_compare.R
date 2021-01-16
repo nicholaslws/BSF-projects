@@ -33,8 +33,8 @@ harvest_oct<-harvest_fil[1:42,]
 harvest_dec<-harvest_fil[99:nrow(harvest_fil),]
 
 #Prep the two data frames
-harvest_oct$Month<-"oct"
-harvest_dec$Month<-"dec"
+harvest_oct$Month<-"Oct"
+harvest_dec$Month<-"Dec"
 
 #rbind them
 harvest_comb<-bind_rows(harvest_dec,harvest_oct)
@@ -43,10 +43,12 @@ harvest_comb<-bind_rows(harvest_dec,harvest_oct)
 library(stringr)
 harvest_comb$line<-substr(harvest_comb$tray_ID, 1,1)
 
-#t test lol
-t.test(fcr~Month, data=harvest_comb)
-t.test(frasscon~Month, data=harvest_comb)
-summary(harvest_comb)
+#Lets see some stuff
+harvest_comb %>%
+  group_by(Month, line) %>%
+  summarise(meanfcr = mean(fcr),
+            meanfrass=mean(frasscon),
+            n = n())
 
 #ggplotslol
 #install.packages("ggplot2")
@@ -56,12 +58,19 @@ library(ggplot2)
 #histograms for fcr, frasscon?
 range(harvest_comb$fcr)
 range(harvest_comb$frasscon)
+
+#initialise
 plotbsf<-ggplot(data=harvest_comb, aes(fill=Month))
 
 #Feed conversion ratio
 plotbsf+ 
-  geom_histogram(bins=10,aes(fcr))+ 
+  geom_histogram(bins=20,aes(fcr))+ 
   facet_grid(vars(Month))+
+  scale_x_continuous(name="feed conversion ratio", breaks=seq(0.05,0.25,0.02))
+
+plotbsf+ 
+  geom_histogram(bins=20,aes(fcr))+ 
+  facet_grid(vars(line, Month))+
   scale_x_continuous(name="feed conversion ratio", breaks=seq(0.05,0.25,0.01))
 
 #Frass conversion
@@ -69,3 +78,13 @@ plotbsf+
   geom_histogram(bins=20,aes(frasscon))+ 
   facet_grid(vars(Month))+
   scale_x_continuous(name="frass conversion ratio", breaks=seq(0.0,0.1,0.01))
+
+plotbsf+ 
+  geom_histogram(bins=20,aes(frasscon))+ 
+  facet_grid(vars(line, Month))+
+  scale_x_continuous(name="frass conversion ratio", breaks=seq(0.0,0.1,0.01))
+
+
+#t test lol
+t.test(fcr~Month, data=harvest_comb)
+t.test(frasscon~Month, data=harvest_comb)
