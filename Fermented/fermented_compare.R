@@ -56,4 +56,16 @@ library(ggplot2)
 #histograms for fcr, frasscon?
 range(harvest_comb$fcr)
 range(harvest_comb$frasscon)
+plotbsf<-ggplot(data=harvest_comb, aes(fill=Month))
 
+#Feed conversion ratio
+plotbsf+ 
+  geom_histogram(bins=10,aes(fcr))+ 
+  facet_grid(vars(Month))+
+  scale_x_continuous(name="feed conversion ratio", breaks=seq(0.05,0.25,0.01))
+
+#Frass conversion
+plotbsf+ 
+  geom_histogram(bins=20,aes(frasscon))+ 
+  facet_grid(vars(Month))+
+  scale_x_continuous(name="frass conversion ratio", breaks=seq(0.0,0.1,0.01))
