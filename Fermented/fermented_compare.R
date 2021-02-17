@@ -3,7 +3,7 @@ library(readxl)
 here()
 
 #Feed in data
-feed_tal<-read_excel(here("Fermented", "BSF Facility Data Records.xlsx"), sheet="Feed Tally", skip=1)
+feed_tal<-read_excel(here("Fermented", "BSF Facility Data Records2.xlsx"), sheet="Feed Tally", skip=1)
 
 #Removing unneeded columns (7-26, 33-41)
 feed_tal<-feed_tal[, -c(7:26, 33:41)]
@@ -83,6 +83,7 @@ plotbsf+
   geom_histogram(bins=20,aes(frasscon))+ 
   facet_grid(vars(line, Month))+
   scale_x_continuous(name="frass conversion ratio", breaks=seq(0.0,0.1,0.01))
+
 
 
 #t test lol
