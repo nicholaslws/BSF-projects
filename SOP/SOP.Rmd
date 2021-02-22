@@ -81,7 +81,16 @@ During the semester break, the food service will not be running. Alternative arr
 
 
 ## Food waste processing
-On returning from food collection, bins containing food waste are unloaded from the lorry bed manually. They are then wheeled to the main area and weighed. The food waste is then fed into the grinder or handheld mixer depending on the amount of food waste collected. If the food waste is too dry, water might have to be added. If the food waste is too wet, dry substrate such as bread or biscuits will be added to reduce the wetness of the food. These additional steps helps to homogenise the quality of food waste and the optimal moisture content for the larval consumption.  
+On returning from food collection, bins containing food waste are unloaded from the lorry bed manually. They are then wheeled to the main area and weighed. 
+### Raw!
+If the food waste is to be fed fresh, it is then fed into the grinder or handheld mixer depending on the amount of food waste collected. If the food waste is too dry, water might have to be added. If the food waste is too wet, dry substrate such as bread or biscuits will be added to reduce the wetness of the food. These additional steps helps to homogenise the quality of food waste and the optimal moisture content for the larval consumption.
+
+### Fermentation!
+For fermentation, we are currently using EM1 solution. We prepare it by mixing EM1, molasses and water in a 1:1:20 ratio ( ~ 5L of EM1 and molasses in a blue drum). After 1-2 weeks, the solution should turn a lighter shade of brown and it is then ready for us. You can refer to the brochures for instructions. 
+
+During the longer holidays or for general feeding, we might need to ferment food. Each drum of fermented food should be good for about three months, the length of the summer break. So far, we have tried 10L of EM1 per bin which seems to work well. The food should be filled up roughly to the handles of the bin. Filling beyond that point might lead to food overflowing from the bin during fermentation. Due to the breakdown of the food and the extra liquids added, the  fermented food might be watery at the bottom of the bin. It is recommended to mix it well before serving.
+
+Ideally, the EM1 should not be used for >1 generations as the community of microbes might change. But... we have tried till the 4th or 5th generation and it seems to be fine so far (Feb 2021)....
 
 ---
 
