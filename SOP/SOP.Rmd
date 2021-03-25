@@ -176,7 +176,7 @@ Currently (Dec 2020), we are still rebuilding our populations after the circuit 
 Once the trays are placed in the cages, the cages are placed in the dark room to build up a larger population of flies. Once a large population of flies is established in a cage, it is brought out into the into and placed along the row of windows. 
 
 ### Light
-Once the cage is by the windows, a small tray of sugar water with sponges can placed in the cage for the flies. This can be topped up twice a week. Two days after being brought into the light, a bait box with an egg trap is added into the cage. The bait box is made using chicken feed and frass from sieving. It should be made more watery as it is expected to last for at least 2 weeks. These cages are lit by natural sunlight. 
+Once the cage is by the windows, a small tray of sugar water with sponges can placed in the cage for the flies. This can be topped up twice a week. Two days after being brought into the light, a bait box with an egg trap is added into the cage. The bait box is made using chicken feed, frass and water in a 1:1:3 ratio using the cat food scoops. Usually, the small containers are used, covered with a fine mesh and secured with a cover with the centre cut out. It should be quite watery as it is expected to last for at least 2 weeks. These cages are lit by natural sunlight. 
 
 ![Fig 4. BSF bait boxes with traps](images/trap.png){width=30%}
 
@@ -188,7 +188,7 @@ If the row beside the window is fully used, we have a a number of XXL cages set 
 
 
 ## Egg traps
-We have implemented the use of 2 different types of egg traps: wooden traps and cardboard traps. Label cage the trap is from so that we can track the performance of the cages. Traps are replaced every Monday, Wednesday and Friday until the cage is decommissioned when most of the flies have died. 
+We have implemented the use of 2 different types of egg traps: wooden traps and cardboard traps. Label the cage the trap is from so that we can track the performance of the cages. Traps are replaced every Monday, Wednesday and Friday until the cage is decommissioned when most of the flies have died. 
 
 ### Wooden trap
 Wooden traps are made by bundling four layers of wood, separated by thin wooden spacers. More traps can be made by cutting wooden planks to size with the saw. Using wooden traps, eggs can be gently scraped out using a penknife to obtain the egg weight. Scrap along the wooden grain to minimise damage to eggs. The eggs are scraped out onto a thin plastic card which can be placed in the nursery. The traps are then placed in the dehydrator for one to two hours to kill off any remaining eggs. Once cooled, the trap can be used again.
@@ -196,6 +196,6 @@ Wooden traps are made by bundling four layers of wood, separated by thin wooden 
 ![Fig 6. Example of a wooden trap](images/wooden trap.jpg){width=30%}
 
 ### Cardbaord traps.
-Cardboard traps are made  by bundling 3-4 layers of cardboard. Each trap is approximately 15x1.5cm. After the trap has been secured with a rubber band, weigh the trap and write it on the cardboard. The weight of eggs on the trap can be obtained by subtracting the final weight from the initial weight of the trap. The cardboard traps can be placed directly in the nurseries.
+Cardboard traps are made  by bundling 3-4 layers of cardboard. Each trap is approximately 15x1.5cm. After the trap has been secured with a rubber band, weigh the trap and write it on the cardboard. The weight of eggs on the trap can be obtained by subtracting the final weight from the initial weight of the trap. The cardboard traps can be placed on a platform in nurseries.
 
 ![Fig 7. Example of a cardboard trap](images/cardboard trap.jpg){width=30%}

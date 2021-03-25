@@ -129,13 +129,48 @@ Food waste processing
 
 On returning from food collection, bins containing food waste are
 unloaded from the lorry bed manually. They are then wheeled to the main
-area and weighed. The food waste is then fed into the grinder or
-handheld mixer depending on the amount of food waste collected. If the
-food waste is too dry, water might have to be added. If the food waste
-is too wet, dry substrate such as bread or biscuits will be added to
-reduce the wetness of the food. These additional steps helps to
-homogenise the quality of food waste and the optimal moisture content
-for the larval consumption.
+area and weighed. \#\#\# Raw! If the food waste is to be fed fresh, it
+is then fed into the grinder or handheld mixer depending on the amount
+of food waste collected. If the food waste is too dry, water might have
+to be added. If the food waste is too wet, dry substrate such as bread
+or biscuits will be added to reduce the wetness of the food. These
+additional steps helps to homogenise the quality of food waste and the
+optimal moisture content for the larval consumption.
+
+### Fermentation!
+
+#### EMAS preparation
+
+During the longer holidays or for general feeding, we might need to
+ferment food. For fermentation, we are using EM1 solution. We prepare it
+by mixing EM1, molasses and water in a 1:1:20 ratio ( \~ 5L of EM1 and
+molasses in a blue drum). After 1-2 weeks, the solution should turn a
+lighter shade of brown and it is then ready for use (EMAS). The solution
+can then be stored for a few months. You can refer to the brochures for
+instructions.
+
+#### Using EMAS
+
+So far, we have tried adding 10L of EM1 per bin (approximately 1:10 EMAS
+to food waste) which seems to work well. The EMAS solution can be added
+while food is being added or at the end before being mixed. The food
+should be filled up roughly to the handles of the bin (\~the handle
+squares on the inside of the bins). Filling beyond that point might lead
+to food overflowing from the bin during fermentation. The bins attract
+escapee BSFs and phorids to oviposit on the bins. To prevent stray
+maggots from entering the bins, cover the bin first with cling wrap
+before placing the lid.
+
+Due to the breakdown of the food and the extra liquids added, the
+fermented food might be watery at the bottom of the bin. It is
+recommended to mix it well before serving or grains can be added or the
+chunks of food can be sieved. Each drum of fermented food should be good
+for about three months.
+
+Ideally, the EM1 should not be used for \>1 generations as the community
+of microbes might change but we have been using it fine so far.. After
+four o five generations, the EM1 seems getting less effective. It might
+be good to start a new culture after the fourth generation.
 
 ------------------------------------------------------------------------
 
@@ -147,10 +182,11 @@ are collected from the mating cages should be between 2-3 days old. The
 egg traps are then weighed to determine the weight of eggs on it.
 Nurseries should be set up immediately in case of early hatching.
 Currently, nurseries are made using chicken feed sourced from Lian Wah
-Hang Quail Poultry Farm. Generally, \~100g of dry chicken feed is added
-to 1g of BSF eggs at 60% moisture, rounded to the closest 0.1g of eggs.
-A maximum of 5g of eggs in used in each nursery as the chicken feed
-layer will get too thick.
+Hang Quail Poultry Farm / Phira’s cheaper chicken feed contact @ Bukit
+Batok. Generally, \~100g of dry chicken feed is added to 1g of BSF eggs
+at 60% moisture, rounded to the closest 0.1g of eggs. A maximum of 5g of
+eggs in used in each nursery as the chicken feed layer will get too
+thick.
 
 | Mass of eggs (g) | Dry chicken feed (g) | Water (g) | Container size |
 |------------------|----------------------|-----------|----------------|
@@ -161,17 +197,15 @@ layer will get too thick.
 | 4-5              | 400-500              | 600-750   | Large          |
 
 Once the chicken feed has been mixed with water, we let it sit for an
-hour. The chicken feed will absorb the water and cake up. Thoroughly mix
-the moistened chicken feed and add a layer of dry coco peat. Ensure the
-egg traps remain dry by placing them on top of the coco peat. An
-elevated platform made of flexible wire mesh or a mini steaming tripod
-can be used to support the egg traps. The nurseries are then covered
-with a paper towel which is secured by a cut-out cover to prevent
-phorids from infesting the nursery. They are placed in individual small
-cages before being put into the large cage according to their line. The
-nurseries are left there for one to two weeks before being trayed.
-Midway through, it is good to mix and aerate the nurseries to prevent
-any caking of the chicken feed.
+hour. The chicken feed will absorb the water and cake up. An elevated
+platform made of flexible wire mesh or a mini steaming tripod can be
+used to support the egg traps too ensure that the egg traps remain dry.
+The nurseries are then covered with a paper towel which is secured by a
+cut-out cover to prevent phorids from infesting the nursery. They are
+placed in individual small cages before being put into the large cage
+according to their line. The nurseries are left there for one to two
+weeks before being trayed. Midway through, it is good to mix and aerate
+the nurseries to prevent any caking of the chicken feed.
 
 Using chicken feed (\~$3/kg) nurseries will add on quite a substantial
 amount to our expenses. Food waste nurseries are probably more
@@ -181,6 +215,12 @@ Nurseries comprised of a food waste + chicken feed (or okara) mix have
 shown to be effective, and could minimize escapes by being slightly
 drier and provide more structure to the substrate. This will require
 further investigation to determine a suitable nursery mix.
+
+We have been playing around with doubling the ratio of food to maggot
+ratio in a larger container. This is similar to the ratio used by Steffi
+(100g of dry feed : 0.5g of eggs). This *seems* to give a higher
+survival rate but the bulk of the eggs are still nurseries based on the
+standard ratio above.
 
 #### Misc tips
 
@@ -216,13 +256,20 @@ nursery which makes sieving it more difficult.
 Once the nursery is ready (dry), we will remove as much substrate as
 possible from each nursery (ie dried clumps with no larvae). This is
 done by sieving the mixture through an appropriate small sieve (\~1mm
-and \~4mm). The remaining larvae tends to clump together in panic and
-more substrate can be removed by skimming off the top substrate. The
-larvae and remaining substrate will be homogenized. The number of larvae
-in the nursery is estimated by counting the number in a small sample (3
-x \~1.5g), which is then extrapolated based on the total weight of the
-nursery. The larvae are then distributed into batches of approximately
-10,000, which are then added to each blue tray with food waste.
+and \~4mm or the noodle sieve). The remaining larvae tends to clump
+together in panic and more substrate can be removed by skimming off the
+top substrate. The larvae and remaining substrate will be homogenized.
+The number of larvae in the nursery is estimated by counting the number
+in a small sample (3 x \~1.5g), which is then extrapolated based on the
+total weight of the nursery. The larvae are then distributed into
+batches of approximately 10,000, which are then added to each blue tray
+with food waste.
+
+In the rearing area, there are four rows of racks for each line. Trays
+from the same week are placed on the same row to keep it orderly. Each
+week, the oldest trays are harvested and replaced by new trays.
+Currently, we target about 10 trays/line/week. But this might change
+depending on the backlog.
 
 Feeding
 -------
@@ -233,24 +280,25 @@ trials and a ratio of 3-5kg : 10,000 maggots in a blue tray seem to do
 quite well. However, due to concerns with odours and escapees, we have
 changed to multiple feedings.
 
-Each tray starts out with one large scoop of spent grains or okara
-(\~800g?). A depression is made in the center of the scoop and a scoop
-of food waste is placed in the center in the depression. The grains
-provide a dryer substrate and seem quite effective in discouraging
-maggots from escaping. Each new tray is labeled as such:
-Line-traydate-s/n. For example of maggots from line D, trayed on 10 Sep
-2020 will be labelled as ‘D-10092020-01’, ‘D-10092020-02’ and so on. The
-nursery number is also noted down to allow us to ttrack the performance
-of specific nurseries. The trays are then placed on their respective
-racks.
+Each tray starts out with one large scoop of spent grains or okara or
+milled biscuits (\~800g?). A depression is made in the center of the
+scoop and a scoop of food waste is placed in the center in the
+depression. The grains provide a dryer substrate and seem quite
+effective in discouraging maggots from escaping. Each new tray is
+labeled as such: Line-traydate-s/n. For example of maggots from line D,
+trayed on 10 Sep 2020 will be labelled as ‘D-10092020-01’,
+‘D-10092020-02’ and so on. The nursery number is also noted down to
+allow us to ttrack the performance of specific nurseries. The trays are
+then placed on their respective racks.
 
-For existing trays, an additional scoop of food waste is added to the
-tray every Monday, Wednesday and Friday or when the substrate is dry.
-With certain types of food wastes (such as biscuits), the substrate
-tends to dry quickly and cake up. Watering and mixing might need to be
-done on an ad hoc basis if you notice caking. This should not be an
-issue with foodwaste, okara or grains. The trays continue to receive
-food until an estimated 40% of the larvae have prepupated.
+For existing trays, an additional flush scoop of food waste (\~500g) is
+added to the tray every Monday, Wednesday and Friday or when the
+substrate is dry. With certain types of food wastes (such as biscuits),
+the substrate tends to dry quickly and cake up. Watering and mixing
+might need to be done on an ad hoc basis if you notice caking. This
+should not be an issue with foodwaste, okara or grains. The trays
+continue to receive food until an estimated 40% of the larvae have
+prepupated.
 
 ------------------------------------------------------------------------
 
@@ -260,27 +308,27 @@ Harvesting
 Small scale harvesting
 ----------------------
 
-If your experiment is on a smaller scale (yellow trays), you may
-consider letting the larvae self harvest as prepuae migrate from wetter
-areas in search of dry substrate to pupate in. This can be done by
-placing a yellow tray in a larger blue tray and adding a wooden ramp on
-the short side of the yellow tray. The self harvesting method will not
-get all the prepupae out but it may be sufficient for your needs. This
-can be combined together with manual handheld sieving to get even more
-prepupae out of the trays. If the resultant frass is not important at
-the end of the experiment, you may want to flood the yellow tray and add
-coco peat in the blue tray. This will chase out most of the prepupae but
-the frass is lost.
+If your experiment is on a smaller scale (yellow trays or smaller), you
+may consider letting the larvae self harvest as prepuae migrate from
+wetter areas in search of dry substrate to pupate in. This can be done
+by placing a yellow tray in a larger blue tray and adding a wooden ramp
+on the short side of the yellow tray. The self harvesting method will
+not get all the prepupae out but it may be sufficient for your needs.
+This can be combined together with manual handheld sieving to get even
+more prepupae out of the trays. If the resultant frass is not important
+at the end of the experiment, you may want to flood the yellow tray and
+add coco peat in the blue tray. This will chase out most of the prepupae
+but the frass is lost.
 
 Large scale harvesting
 ----------------------
 
-For the operations of the BSF facility, self harvest is too slow to be
-used. Instead, we use the large mechanical sieve. It can fit up to three
+For the operations of the BSF facility, self harvest is too slow.
+Instead, we use the large mechanical sieve. It can fit up to three
 layers of sieves with meshes of different sizes. We have a number of
 sieves of different sizes that can be swapped depending on your needs
 (10mm, 5mm, 3mm etc). The 5mm screen is most often used. The maggot tray
-should be dry or the frass will clump up.
+should be dry or the frass will clump up at the bottom.
 
 <figure>
 <img src="images/siever.jpg" style="width:70.0%" alt="" /><figcaption>Fig 2. Mechanical sieve with alternative screens behind.</figcaption>
@@ -299,22 +347,28 @@ loosening) can be done quickly by using a drill with an adapter for the
 nut. If the tray is still wet, the sieve will not work well. Let the
 tray dry out for a day before assessing it again.
 
-After sieving, the weight of the frass and larvae of each tray have to
-be quantified. An additional measurement of prepupae percentage is taken
-by counting a few samples of larvae. The frass goes into the designated
-frass bins for composting and stored for botany or other gardening
-interest groups. The trays of larvae are added into a large cage and
-placed in the dark room. Each cage is to have between one to two trays
-worth of maggots (total \~20,000 per cage). Remember to label the cage
-so that we are able to track the amount of eggs from each cage. For very
-large numbers of trays, we take precise measurements for five trays
-before aggregating the rest.
+After sieving, a few measurements for the trays have to be taken.
+Firstly, we weigh the frass and residue produced by the tray. Next, we
+weigh the mass of the larvae. Lastly, prepupae percentage is estimated
+by counting a few samples of larvae. This is done for a minimum of three
+random trays per batch (per line per date). The frass goes into the
+designated frass bins for composting or stored for botany or other
+gardening interest groups. The trays of larvae are placed inside a large
+cage and goes to the dark room. Each cage is to have between one to two
+trays worth of maggots (total \~20,000 per cage). Remember to label the
+cage so that we are able to track the amount of eggs from each cage.
+
+To save some time while retaining data, we sometimes follow the above
+procedure for the first three trays. but aggregate the rest. For the
+rest of the trays, they are sieved into a red bin and split into an
+appropriate number of cages based on weight. The total amount of frass
+is also weighed at the end and is entered into the sheets as an average.
 
 <figure>
 <img src="images/Frass.jpeg" style="width:50.0%" alt="" /><figcaption>Fig 3. BSF frass</figcaption>
 </figure>
 
-Currently (Sep 2020), we are still rebuilding our populations after the
+Currently (Dec 2020), we are still rebuilding our populations after the
 circuit breaker. When it reaches a point where we have more than enough
 adult flies, some trays can be harvested earlier for other purposes.
 
@@ -339,9 +393,11 @@ Once the cage is by the windows, a small tray of sugar water with
 sponges can placed in the cage for the flies. This can be topped up
 twice a week. Two days after being brought into the light, a bait box
 with an egg trap is added into the cage. The bait box is made using
-chicken feed and frass from sieving. It should be made more watery as it
-is expected to last for at least 2 weeks. These cages are lit by natural
-sunlight.
+chicken feed, frass and water in a 1:1:3 ratio using the cat food
+scoops. Usually, the small containers are used, covered with a fine mesh
+and secured with a cover with the centre cut out. It should be quite
+watery as it is expected to last for at least 2 weeks. These cages are
+lit by natural sunlight.
 
 <figure>
 <img src="images/trap.png" style="width:30.0%" alt="" /><figcaption>Fig 4. BSF bait boxes with traps</figcaption>
@@ -356,19 +412,19 @@ The XXL cages and giant cage in the rooms are lit using artificial
 lighting. These are supposed to be optimised based on the visible
 spectrum of the BSFs. Please wear eye protection before going into the
 rooms if the lights are on. The egg production with these cages have not
-been as good as the large cages, perhaps as due to a lower density but
-more testing should be done ¯\\\_(ツ)\_/¯.
+been as good as the large cages, perhaps due to a lower density but more
+testing should be done ¯\\\_(ツ)\_/¯.
 
 <figure>
-<img src="images/LEDs.png" style="width:60.0%" alt="" /><figcaption>Fig 5. Wavelength of LEDs in the rooms</figcaption>
+<img src="images/LEDs.png" style="width:60.0%" alt="" /><figcaption>Fig 5. Wavelength of LEDs in the rooms from the manufacturer</figcaption>
 </figure>
 
 Egg traps
 ---------
 
 We have implemented the use of 2 different types of egg traps: wooden
-traps and cardboard traps. Label cage the trap is from so that we can
-track the performance of the cages. Traps are replaced every Monday,
+traps and cardboard traps. Label the cage the trap is from so that we
+can track the performance of the cages. Traps are replaced every Monday,
 Wednesday and Friday until the cage is decommissioned when most of the
 flies have died.
 
@@ -393,8 +449,8 @@ Cardboard traps are made by bundling 3-4 layers of cardboard. Each trap
 is approximately 15x1.5cm. After the trap has been secured with a rubber
 band, weigh the trap and write it on the cardboard. The weight of eggs
 on the trap can be obtained by subtracting the final weight from the
-initial weight of the trap. The cardboard traps can be placed directly
-in the nurseries.
+initial weight of the trap. The cardboard traps can be placed on a
+platform in nurseries.
 
 <figure>
 <img src="images/cardboard%20trap.jpg" style="width:30.0%" alt="" /><figcaption>Fig 7. Example of a cardboard trap</figcaption>
