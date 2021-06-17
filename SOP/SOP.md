@@ -1,7 +1,7 @@
 Welcome to the BSF Facility
 ===========================
 
-Hello, welcome to the SOP for the BSF project for Evolab & Reprolab.
+Hello, welcome to the SOP for the BSF project for ~~Evolab~~ & Reprolab.
 Read the Reprolab’s onboarding documents and get yourself added to the
 lab’s MS Teams.
 
@@ -33,16 +33,18 @@ using it.
 
 ### BSF cultures
 
-Currently, we have five selection lines of BSF, labeled A to E. We are
-in the process of establishing more lines of local flies. The maintence
-procedures are outlined below in this document.
+Currently, we have five selection lines of BSF, labeled A to E. We
+established an additional wild type line (SSS) around Oct or Nov 2020
+using clutches from City Sprouts. The maintenance procedures are
+outlined below in this document.
 
 Data recording
 --------------
 
 In each of the below steps, there are things to be recorded in the MS
-Teams ‘BSF Facility data records’ sheet. Please refer to the readme
-sheet in the document to familiarise yourself with it.
+Teams ‘BSF cage records’, ‘BSF feeding and tray records 2021’ or ’BSF IO
+2020-2021 sheets. Please refer to the readme sheet in the document to
+familiarise yourself with it.
 
 ------------------------------------------------------------------------
 
@@ -55,8 +57,8 @@ Food waste sources
 For this project, one of the goals is to recycle the foodwaste around
 the campus. We have targeted the residential halls and colleges that
 provide meal plans as they seem to form the bulk of the food waste
-produced. There are currently nine halls and colleges that we collect
-food waste from. These are:
+produced. There are nine halls and colleges that we can collect food
+waste from. These are:
 
 -   Eusoff Hall
 -   Kent Ridge Hall
@@ -68,11 +70,12 @@ food waste from. These are:
 -   College of Alice and Peter Tan (CAPT) & Residential College 4 (RC4)
 -   Ridge View Residential College
 
-The meal plans in these halls and colleges are operated by a number of
-different caterers. Do check at the start of the academic year if there
-has been any changes in the caterer. If so, contact the dining service
-manager or the catering company’s manager to arrange collection of the
-food waste.
+At our current production rate, collection from just RVRC, CAPT and
+Cinnamon is enough to meet our needs. The meal plans in these halls and
+colleges are operated by a number of different caterers. Do check at the
+start of the academic year if there has been any changes in the caterer.
+If so, contact the dining service manager or the catering company’s
+manager to arrange collection of the food waste.
 
 Food waste collection
 ---------------------
@@ -93,21 +96,26 @@ be able to source \~350-400kg/day.
 
 ### Food waste collection arrangements
 
-We would collect food Monday - Friday. Each collection will include the
-previous night’s dinner as well as that morning’s breakfast at the same
-time, sometime between 10:30 - 11:30am each weekday morning at a
-designated pickup/dropoff usually located near to the bin center of the
-halls. As such, dining staff would not collect Friday dinner, but would
-collect Sunday dinner for collection with Monday’s breakfast. At the
-time of collection, we will drop off two empty bins for the next
-collection.
+Prior to arranging for the collection, please check the availability of
+the department vehicle at the DBS office. We usually book two
+consecutive days at 1300-1400 hrs.
+
+We would collect food Monday - Friday or when needed. Each collection
+will include the previous night’s dinner as well as that morning’s
+breakfast at the same time, sometime between 10:30 - 11:30am each
+weekday morning at a designated pickup/dropoff usually located near to
+the bin center of the halls. As such, dining staff would not collect
+Friday dinner, but would collect Sunday dinner for collection with
+Monday’s breakfast. At the time of collection, we will drop off two
+empty bins for the next collection.
 
 Because there are no refrigerators at the dining halls, we would provide
 the dining halls with two, 2-wheeled 80-L bins in which to place the
 buffet leftovers after each meal (one bin each for dinner and
 breakfast). We eventually came to an agreement with the operators that
 as long as the bins are covered and kept away from the kitchen area, a
-standard, non-sealing wheelie bin should be fine.
+standard, non-sealing wheelie bin should be fine. Ensure that the bins
+are secured on the lorry bed with a ratchet strap.
 
 <figure>
 <img src="images/FW_route.PNG" style="width:70.0%" alt="" /><figcaption>Fig 1. Food waste collection route.</figcaption>
@@ -120,20 +128,25 @@ Alternative arrangements from outside the campus will have to be made to
 tide ths BSFs over during this time. Some food waste may be collected
 from the canteen operators but this is unlikely to be sufficient. We
 have tried to stock up on dry goods such as biscuits as feed but this is
-not optimal for BSFs. We noticed higher than normal mortality in the
-trays during this period. Food service should resume a week before the
-new semester starts.
+not optimal for BSFs. Okara delivery can be arranged with TL.. We are
+currently accepting about 300kg every two weeks. Collect of spent grains
+can be arranged with Brewerkz.
+
+We notice higher than normal mortality in the trays during this period,
+especially with biscuit mixes. With okara, the larvae seem to prepupate
+and reach a smaller final size. Food service should resume a week before
+the new semester starts.
 
 Food waste processing
 ---------------------
 
 On returning from food collection, bins containing food waste are
-unloaded from the lorry bed manually. They are then wheeled to the main
-area and weighed. \#\#\# Raw! If the food waste is to be fed fresh, it
-is then fed into the grinder or handheld mixer depending on the amount
-of food waste collected. If the food waste is too dry, water might have
-to be added. If the food waste is too wet, dry substrate such as bread
-or biscuits will be added to reduce the wetness of the food. These
+unloaded from the lorry bed. They are then wheeled to the main area and
+weighed. \#\#\# Raw! If the food waste is to be fed fresh, it is then
+fed into the grinder or handheld mixer depending on the amount of food
+waste collected. If the food waste is too dry, water might have to be
+added. If the food waste is too wet, dry substrate such as bread or
+biscuits will be added to reduce the wetness of the food. These
 additional steps helps to homogenise the quality of food waste and the
 optimal moisture content for the larval consumption.
 
@@ -368,9 +381,9 @@ is also weighed at the end and is entered into the sheets as an average.
 <img src="images/Frass.jpeg" style="width:50.0%" alt="" /><figcaption>Fig 3. BSF frass</figcaption>
 </figure>
 
-Currently (Dec 2020), we are still rebuilding our populations after the
-circuit breaker. When it reaches a point where we have more than enough
-adult flies, some trays can be harvested earlier for other purposes.
+Currently (Jun 2021), the populations are relatively stable and healthy.
+The Wild Type line still needs to be boomed. Some trays can be harvested
+earlier for other purposes if there’s sufficient manpower.
 
 ------------------------------------------------------------------------
 
@@ -413,7 +426,8 @@ lighting. These are supposed to be optimised based on the visible
 spectrum of the BSFs. Please wear eye protection before going into the
 rooms if the lights are on. The egg production with these cages have not
 been as good as the large cages, perhaps due to a lower density but more
-testing should be done ¯\\\_(ツ)\_/¯.
+testing should be done ¯\\\_(ツ)\_/¯. Update(2021, Q2): Steffi’s trials
+show little difference from sunlight, might be a density thing.
 
 <figure>
 <img src="images/LEDs.png" style="width:60.0%" alt="" /><figcaption>Fig 5. Wavelength of LEDs in the rooms from the manufacturer</figcaption>
@@ -455,3 +469,55 @@ platform in nurseries.
 <figure>
 <img src="images/cardboard%20trap.jpg" style="width:30.0%" alt="" /><figcaption>Fig 7. Example of a cardboard trap</figcaption>
 </figure>
+
+Conclusion & Checklists
+=======================
+
+Thanks.
+
+After each major step, just ensure that the following are done: 1.
+Feeding + Feed tally sheets for each line has been updated (Amount of
+scoops/tray) + Status of each tray is updated
+(Feeding/CUlled/Drying/Sick etc) + Empty bins/ drums are washed
+
+1.  Traying
+
+-   New trays have been recorded into the feed tally sheets. (New rows
+    of data)
+-   Tray tracking sheet is updated
+
+1.  Harvesting
+
+-   Latest ID on mini whiteboard has been updated
+-   Feed Tally sheets’ harvest columns has been updated (amount of frass
+    and maggots collected, PPP%)
+-   Feed Tally’s Tray status has been updated (Feeding to Harvested)
+-   Tray tracking sheet is updated
+-   Cage tally sheet is updated (Records of new trays to be added)
+
+1.  Taking cages into light
+
+-   Cage tally sheet is updated (Light column updated with date)
+
+1.  Taking cages down
+
+-   Collect the masking tape tags from the cages to denote that they’ve
+    been decommed
+-   Cage tally sheet is updated based on collected tags (Decomm column
+    updated with date)
+
+1.  Egg collection
+
+-   Egg traps are replaced
+-   Have sufficient nurseries been made for the week?
+-   Does Oto or TL need more eggs
+-   Excess eggs are culled in a freezer so they do not hatch over work
+    area
+-   Are there sufficient egg traps left for the next collection?
+-   If wooden egg traps are used, that they have been placed in the oven
+    or dehydrator
+
+1.  Food collection
+
+-   Bins are washed
+-   Food collection sheet updated
