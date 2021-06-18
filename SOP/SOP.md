@@ -491,11 +491,13 @@ Conclusion & Checklists
 
 Thanks.
 
-After each major step, ensure that the following are done: \* Feeding +
-Feed tally sheets for each line has been updated (Amount of scoops/tray)
-+ Status of each tray is updated (Feeding/CUlled/Drying/Sick etc) +
-Empty bins/ drums are washed
+After each major step, ensure that the following are done:
 
+-   Feeding
+    -   Feed tally sheets for each line has been updated (Amount of
+        scoops/tray)
+    -   Status of each tray is updated (Feeding/CUlled/Drying/Sick etc)
+    -   Empty bins/ drums are washed
 -   Traying
     -   New trays have been recorded into the feed tally sheets. (New
         rows of data)

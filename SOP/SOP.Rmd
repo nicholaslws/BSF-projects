@@ -3,11 +3,11 @@ title: "BSF SOP"
 author: "BSF team"
 date: "`r format(Sys.Date(), '%d %B, %Y')`"
 output:
+  md_document:
+    variant: markdown_github
   html_notebook:
     toc: true
     toc_float: true
-  md_document:
-    variant: markdown_github
   html_document: 
     keep_md: yes
     toc: true
@@ -210,6 +210,8 @@ Cardboard traps are made  by bundling 3-4 layers of cardboard. Each trap is appr
 Thanks. 
 
 After each major step, ensure that the following are done:
+
+
 * Feeding
   + Feed tally sheets for each line has been updated (Amount of scoops/tray)
   + Status of each tray is updated (Feeding/CUlled/Drying/Sick etc)
